@@ -6,7 +6,7 @@ on:
       model:
         description: '大模型名称'
         required: true
-        default: 'deepseek-r1:14b'
+        default: 'gpt-oss:20b'
       embedding_model:
         description: '嵌入模型名称'
         required: true
